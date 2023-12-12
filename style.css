@@ -4,7 +4,9 @@ html{
 }
 
 body {
-    padding: 4vw;
+    margin-top: 2vw;
+    margin-left: 12vw;
+    padding: 3vw;
     position:center;
     height: 37vw;
     width: 60vw;
@@ -34,16 +36,16 @@ a{
 }
 
 button{
-    
-    margin-left:300px;
-    margin-top:440px;
-    max-height: 40px;
-    max-width: 150px;
-    height:40px;
-    width:150px;
-    display:block;
-    float:bottom;
-    border-radius: 5px;
-    background-color: green;
+    color: white;
+    margin-left: 23vw;
+    margin-top: 35vw;
+    max-height: 7vw;
+    max-width: 15vw;
+    height: 3vw;
+    width: 10vw;
+    display: block;
+    float: bottom;
+    border-radius: 0.5vw;
+    background-color: rgb(78, 90, 78);
     cursor: pointer;
 }
